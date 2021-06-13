@@ -1,6 +1,6 @@
 ### Olá👋🏾<h2> Sou André Henrique</h2>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/hqfZBZgNg9nG5hvZHM/giphy.gif" width="230">
 
 <h3> 👦🏾•💻 About Me </h3>
 
