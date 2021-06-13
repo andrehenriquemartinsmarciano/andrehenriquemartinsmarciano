@@ -6,7 +6,7 @@
 
 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and buscando colocar meus conhecimentos em pratica.
 
 - 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
 
