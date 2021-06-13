@@ -1,8 +1,8 @@
-### Olá 👋<h2> Sou André Henrique</h2>
+### Olá👋🏾<h2> Sou André Henrique</h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<h3> 👨🏻•💻 About Me </h3>
+<h3> 👦🏾•💻 About Me </h3>
 
 
 
@@ -59,7 +59,7 @@
 
 
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3>🤳🏿 Connect with Me </h3>
 
 <br>
 
