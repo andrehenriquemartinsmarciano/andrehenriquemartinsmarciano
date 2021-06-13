@@ -67,10 +67,10 @@
 
 <p align="center">
   
-  <a target="_blank" href="https://www.linkedin.com/in/aryclenio-barros-060322135/">
+  <a target="_blank" href="https://www.linkedin.com/in/andre-henrique-martins/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5584999828379">
+<a target="_blank" href="https://api.whatsapp.com/send?phone=5535999730096">
   <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
 <a target="_blank" href="https://www.instagram.com/ary.clenio/">
