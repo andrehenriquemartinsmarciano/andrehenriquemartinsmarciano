@@ -6,13 +6,13 @@
 
 
 
-- 🤔 &nbsp; Exploring new technologies and buscando colocar meus conhecimentos em pratica.
+🎂 Tenho 26 anos, nasci em:04/01/1995
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
+🏡 Moro em Belo Horizonte, MG.
 
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+❤️ Tenho como hobby assistir documentarios.
 
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+📚 Estou graduando Análise e Desenvolvimento de sistemas pela Faculdade Pitágoras.
 
 
 
@@ -20,7 +20,7 @@
 
 
 
-- 💻 &nbsp; Python | Java | C++ | C | MySQL
+- 💻 &nbsp; Python | Java | C# |SQL Server| MySQL
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
 
