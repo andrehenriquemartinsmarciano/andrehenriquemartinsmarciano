@@ -47,7 +47,7 @@
 <br/>
 <br/>
 
-<img src="https://media.giphy.com/media/aEDgbWd0aGOR5J6OBa/giphy.gif" width="350" align='right'>
+<img src="https://media.giphy.com/media/xTexE15QY62wdIa8xg/giphy.gif" width="350" align='right'>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrehenriquemartinsmarciano&show_icons=true)
 
