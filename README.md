@@ -22,7 +22,8 @@
 
 - 💻 &nbsp; Java | C# |SQL Server| MySQL
 
-- 🌐 &nbsp; HTML | CSS | Java | Spring Web MVC | Python 
+- 🌐 &nbsp; HTML | CSS | Java | Spring Web MVC 
+
 
 <!--
 
@@ -38,7 +39,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; API RESTful| Spring Boot | Django |Docker🐳 
+- 🔧 &nbsp; API RESTful| Spring Boot| Python | Django |Docker🐳 
 
 <hr>
 
