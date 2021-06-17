@@ -20,7 +20,7 @@
 
 
 
-- 💻 &nbsp; Python | Java | C# |SQL Server| MySQL
+- 💻 &nbsp; Java | C# |SQL Server| MySQL
 
 - 🌐 &nbsp; HTML | CSS | Java | Spring Web MVC | Python 
 
