@@ -1,6 +1,6 @@
 ### Olá👋🏾<h2> Sou André Henrique</h2>
 
-<img align='right' src="https://media.giphy.com/media/hqfZBZgNg9nG5hvZHM/giphy.gif" width="230">
+
 
 <h3> 👦🏾•💻 About Me </h3>
 
@@ -47,8 +47,6 @@
 
 <br/>
 <br/>
-
-<img src="https://media.giphy.com/media/xTexE15QY62wdIa8xg/giphy.gif" width="350" align='right'>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrehenriquemartinsmarciano&show_icons=true)
 
