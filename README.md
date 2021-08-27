@@ -48,7 +48,7 @@
 <br/>
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrehenriquemartinsmarciano&show_icons=true)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=andrehenriquemartinsmarcianoe&layout=compact)]
 
 <br><br>
 
