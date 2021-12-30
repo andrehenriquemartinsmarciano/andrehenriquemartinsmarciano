@@ -12,7 +12,7 @@
 
 ❤️ Tenho como hobby assistir documentarios.
 
-📚 Estou graduando em Análise e Desenvolvimento de sistemas pela Faculdade Pitágoras.
+📚 graduado em Análise e Desenvolvimento de sistemas pela Faculdade Pitágoras.
 
 
 
