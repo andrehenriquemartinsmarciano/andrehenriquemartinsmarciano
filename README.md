@@ -22,7 +22,7 @@
 
 - 💻 &nbsp; Java | C# |SQL Server| MySQL
 
-- 🌐 &nbsp; HTML | CSS | Java | Spring Web MVC | API RESTful| Spring Boot|
+- 🌐 &nbsp; HTML | CSS | Java | Spring Web MVC | API RESTful | Spring Boot|
 
 
 <!--
