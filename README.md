@@ -39,7 +39,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; Python | Django |Docker🐳 
+- 🔧 &nbsp; Docker🐳 | Flutter |
 
 <hr>
 
