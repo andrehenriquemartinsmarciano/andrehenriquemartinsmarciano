@@ -6,7 +6,7 @@
 
 
 
-🎂 Tenho 27 anos, nasci em:04/01/1995
+🎂 Tenho 29 anos, nasci em:04/01/1995
 
 🏡 Moro em Belo Horizonte, MG.
 
