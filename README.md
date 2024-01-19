@@ -20,7 +20,7 @@
 
 
 
-- 💻 &nbsp; Java | C# |SQL Server| MySQL
+- 💻 &nbsp; Java | C# |SQL Server| MySQL |
 
 - 🌐 &nbsp; HTML | CSS | Java | Spring Web MVC | API RESTful | Spring Boot|
 
@@ -39,7 +39,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; BluePrint | unreal |
+- 🔧 &nbsp; BluePrint | unreal | Unreal
 
 <hr>
 
