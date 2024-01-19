@@ -8,7 +8,7 @@
 
 🎂 Tenho 29 anos, nasci em:04/01/1995
 
-🏡 Moro em Belo Horizonte, MG.
+🏡 Moro em Nepomuceno, MG.
 
 ❤️ Tenho como hobby assistir documentarios.
 
