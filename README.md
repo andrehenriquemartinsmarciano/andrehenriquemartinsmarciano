@@ -39,7 +39,7 @@
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; BluePrint | unreal | Unreal
+- 🔧 &nbsp; | Unreal| CCG | BluePrint |
 
 <hr>
 
